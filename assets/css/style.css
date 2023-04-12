@@ -135,8 +135,8 @@ h6 {
 
 @media (max-width: 991px) {
   #header {
-    width: 300px;
-    background: #0c0c0c;
+    width: 300px; 
+    background: #eae7e7;
     border-right: 1px solid #0b0b0b;
     left: -300px;
   }
